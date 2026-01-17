@@ -111,6 +111,11 @@ const List<Map<String, dynamic>> defaultExercises = [
     "id": "8d6615f7-8204-4756-ae17-246674e5c7e1",
     "name": "Abductores en máquina",
     "muscleGroup": "Glúteo"
+  },
+  {
+    "id": "7f8a9b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+    "name": "Patadas de burro en polea",
+    "muscleGroup": "Glúteo"
   }
 ];
 
